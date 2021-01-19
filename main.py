@@ -1,1 +1,1 @@
-import while5 
+import agyazas
